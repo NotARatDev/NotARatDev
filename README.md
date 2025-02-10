@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NotARatDev
 - 👀 I’m interested in learning the basics of web development
-- 🌱 I’m currently learning JavaScript using FreeCodeCampe
+- 🌱 I’m currently learning JavaScript using FreeCodeCamp
 
 <!---
 NotARatDev/NotARatDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
